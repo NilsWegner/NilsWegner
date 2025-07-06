@@ -3,14 +3,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/NilsWegner/NilsWegner/output/snake.svg" alt="Snake animation" />
 
 ###
