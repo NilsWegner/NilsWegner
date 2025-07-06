@@ -1,5 +1,5 @@
-## Hi there 👋 My name is Nils
-<p align="left">Developer Student since May 2025</p>
+<h1 align="center">## Hi there 👋 My name is Nils</h1>
+<p align="center">Developer Student since May 2025</p>
 
 ###
 
